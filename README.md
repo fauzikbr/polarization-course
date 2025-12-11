@@ -6,7 +6,7 @@
 
 ## 🗂️ Contents:
   - [Lecture Material](Asservissement_visuelle___3A_ROB___Fauzi_AKBAR.pdf) 
-  - ![Google Drive Videos](https://drive.google.com/drive/folders/1xJ4t_7Zl7KxzNugT1ELE4-c9jz1h76Xy?usp=drive_link)
+  - [📁 Google Drive Videos Folder](https://drive.google.com/drive/folders/1xJ4t_7Zl7KxzNugT1ELE4-c9jz1h76Xy?usp=drive_link)
   - Jupyter Notebook for TP (student): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nNxSAMeVHEZFbhEDSvsaSZcKfgpjZsZB?usp=sharing)
   - Jupyter Noterbook Correction: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rXZy-T44XG3C8RXjnq2X6owIDiFDy1R6?usp=sharing)
   - [Quiz](Quiz_asservisement_visuelle.pdf)
@@ -56,7 +56,7 @@ c. Transform the Sun’s azimuth from **ENU coordinates to the camera frame** us
 
 ### **5️⃣ Part IV — CNN-Based Sun Position Prediction**
 - Load the pretrained CNN model:  
-  ![Google Drive Link](https://drive.google.com/file/d/1MsxV_oHQ0eyKgPztp8hqQwzxhYFK_t-y/view?usp=drive_link)
+  [![Pre-trained CNN Model](https://www.clipartmax.com/png/middle/207-2072863_google-drive-folder-png.png)](https://drive.google.com/file/d/1MsxV_oHQ0eyKgPztp8hqQwzxhYFK_t-y/view?usp=drive_link)
 - Use it to **predict the Sun’s position** on a sky image.
 - Compute and display the **prediction error** relative to the ground truth.
 
