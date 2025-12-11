@@ -1,8 +1,8 @@
 # Polarization of the Sky and Estimation of the Sun’s Position
 
-** Author :** Fauzi AKBAR — Aix-Marseille University
+**Auteur :** Fauzi AKBAR — Aix-Marseille University
 
-** Class :** Asservissement visuelle - 3A ROB - ENSTA Bretagne
+**Class :** Asservissement visuelle - 3A ROB - ENSTA Bretagne
 
 ## 🗂️ Contents:
   - Lecture Material:
