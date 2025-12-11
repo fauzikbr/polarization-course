@@ -82,8 +82,9 @@ c. Transform the Sun’s azimuth from **ENU coordinates to the camera frame** us
 
 ## 📁 Repository Structure
 ```
-├── Data_30_07_2022 # DoLP Images for NCP Part
-├── soccer_field_images/ # AoPimages
+├── Data_30_07_2022 # DoLP Images and library for North Celestial Pole
+├── opensky # Library for OpenSky simulator
+├── soccer_field_images/ # AoP images from robot experiments
 ├── soccer_field_image_info_158.csv # Metadata for images
 └── README.md # This file
 ```
@@ -104,17 +105,24 @@ c. Transform the Sun’s azimuth from **ENU coordinates to the camera frame** us
 
 ## 🚀 How to Run
 
-1. Clone the repo:
-   ```bash
-   git clone <your-repo-link>
-   cd <repo>
-   ```
-2. Open the notebook:
+Open the notebook :
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nNxSAMeVHEZFbhEDSvsaSZcKfgpjZsZB?usp=sharing)
+
 Run all cells in sequence.
 
 📚 References
 
-Moutenet et al., IEEE TIM, 2024 — OpenSky simulator
+- Moutenet et al., IEEE TIM, 2024 — OpenSky simulator
 
-Kronland-Martinet et al., PNAS, 2023 — SkyPole method
+- Kronland-Martinet et al., PNAS, 2023 — SkyPole method
+  
+- Goldstein, D. H. (2010). Polarized Light, Third Edition. CRC Press.
+
+- Courtier, G. (2016). Ground Vehicle Navigation Based on the Skylight Polarization.
+
+- Pan, S. H., et al. (2020). Image-registration-based solar meridian detection for accurate and robust polarization navigation.
+
+- Li, Q., et al. (2018). Skylight polarization patterns under urban obscurations and a navigation method adapted to urban environments.
+
+- Kong, F., et al. (2021). Review on bio-inspired polarized skylight navigation.
