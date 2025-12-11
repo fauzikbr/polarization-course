@@ -55,8 +55,8 @@ c. Transform the Sun’s azimuth from **ENU coordinates to the camera frame** us
 ---
 
 ### **5️⃣ Part IV — CNN-Based Sun Position Prediction**
-- Load the pretrained CNN model:  
-  [![Pre-trained CNN Model](https://www.clipartmax.com/png/middle/207-2072863_google-drive-folder-png.png)](https://drive.google.com/file/d/1MsxV_oHQ0eyKgPztp8hqQwzxhYFK_t-y/view?usp=drive_link)
+- Load the pretrained CNN model:
+  [🎯 Pre-trained model](https://drive.google.com/file/d/1MsxV_oHQ0eyKgPztp8hqQwzxhYFK_t-y/view?usp=drive_link)
 - Use it to **predict the Sun’s position** on a sky image.
 - Compute and display the **prediction error** relative to the ground truth.
 
